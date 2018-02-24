@@ -1,0 +1,6 @@
+This was my Assignment in CMPT 300, SFU. I had hunders of bugs when I did this project and I had not done this one.
+Now I finally finished this C project.
+It uses UDP to send messages and it is P2P.
+Please use make to compile this file in Linux OS, and the format is ./s-talk your-port-number remote-machine's-name their-port-number.
+
+Thank everyone who hleped me and shered some information about this project!
